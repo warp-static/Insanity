@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{124B2919-2908-1413-002F-01B3F4B54862}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Insanity",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
