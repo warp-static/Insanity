@@ -1,0 +1,46 @@
+Controls
+
+Basic
+
+Accelerate forward          R2
+Brake/reverse               L2
+Hard brake                  D-pad down
+Ascend/descend              Left analogue y
+Ship yaw                    Left analogue x
+Ship pitch                  Right analogue y
+Ship roll                   Right analogue x
+Cycle weapons               D-pad x
+Charge weapon               Square
+Fire weapon                 X
+Menu                        D-pad up
+Divert power to shields     Circle
+
+Secondary
+
+Cycle secondary weapons     L1 + D-pad x
+Charge secondary weapon     L1 + Square
+Fire secondary weapon       L1 + X
+Charge warp drive           L1 + R2
+Disengage warp drive        L1 + D-pad down
+Accelerate sideways         L1 + Left analogue x
+
+Targetting
+
+Aim                         Triangle + Left analogue
+Lock-on to target           Triangle + L2
+
+Camera
+
+Camera yaw                  R1 + Left analogue x
+Camera forward              R1 + Left analogue y
+Camera pitch                R1 + Right analogue y
+Camera roll                 R1 + Right analogue x
+Camera pan vertical         R1 + D-pad y
+Camera pan horizontal       R1 + D-pad x
+Camera lock                 R1 + Square
+Camera lock to ship         R1 + X
+Camera unlock               R1 + Circle
+
+
+todo:   targetting controls need different modes for different sensitivities (like "precision mode" for low sinsitivity and another mode for high sensitivity)
+           warp drive needs taking out of the equation
